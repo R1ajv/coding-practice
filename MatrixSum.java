@@ -33,7 +33,7 @@ public class MatrixSum {
 
 			for (int j = 0; j < rows; j++) {
 
-				sumCol = sumCol + arr[i][j];
+				sumCol = sumCol + arr[j][i];
 			}
 
 			System.out.println("Sum of :" + (i + 1) + " col :" + sumCol);
