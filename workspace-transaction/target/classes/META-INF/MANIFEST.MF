@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Rajeev
+Build-Jdk: 11.0.13
+Implementation-Title: boot-jdbc
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/boot-transaction
+Created-By: Maven Integration for Eclipse
+
